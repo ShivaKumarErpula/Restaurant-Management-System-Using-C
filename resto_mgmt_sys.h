@@ -11,6 +11,7 @@
 #define MAX_ITEMS 30  
 #define NAME_LENGTH 50 
 #define ROLE 30
+#define SAMPLE 1
 
 // Defining file names
 #define INVENTORYFILE "inventory.txt"
